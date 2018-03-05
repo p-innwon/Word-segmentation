@@ -6,4 +6,5 @@
 # Problem: sometimes the of the same sentence is calculated twice, this happens because 
 # we are using 2 word banks
 
+
 *There are 2 files, one for running the server and one for run in the python idle.
